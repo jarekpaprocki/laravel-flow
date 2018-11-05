@@ -15,7 +15,7 @@
         "psr-4": {
             "Brexis\\LaravelWorkflow\\": "src/"
         }
-    },workflow
+    },
     "autoload-dev": {
         "psr-4": {
             "Tests\\": "tests/"
