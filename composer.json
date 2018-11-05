@@ -1,5 +1,5 @@
 {
-    "name": "jarekpaprocki/laravel-workflow",
+    "name": "jarekpaprocki/laravel-flow",
     "description": "Integerate Symfony Workflow component into Laravel.",
     "keywords": ["workflow", "symfony", "laravel", "laravel5"],
     "license": "MIT",
@@ -15,7 +15,7 @@
         "psr-4": {
             "Brexis\\LaravelWorkflow\\": "src/"
         }
-    },
+    },workflow
     "autoload-dev": {
         "psr-4": {
             "Tests\\": "tests/"
